@@ -13,7 +13,8 @@ The detail view displays the following:
 
 ## Installation
 
-1. Run 'pod install' to install RestKit
+1. Download the project 
+2. Run 'pod install' in terminal after navigating to the folder containing podfile (this will install RestKit)
 2. Open 'NimyJ_CoffeeApp.xcworkspace' in Xcode  (NOT the NimyJ_CoffeeApp.xcodeproj)
 3. Build & Run the application
 
