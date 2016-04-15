@@ -39,4 +39,5 @@ Control Flow:
 
 2. When ShopListViewController receives a notification from DownloadManager it fetches the  DownloadManager.venueArray and updates the UI showing the latest venues
 
-![Example](./diagrams/DesignDiagram.png “Design Diagram”)
+
+![Design Diagram](./diagram/DesignDiagram.png)
